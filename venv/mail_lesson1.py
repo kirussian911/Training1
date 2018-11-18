@@ -3,7 +3,7 @@
 import operator
 
 # создадим переменную, в которую положим вывод this
-1222222222
+
 
 zen = """
 Beautiful is better than ugly.
